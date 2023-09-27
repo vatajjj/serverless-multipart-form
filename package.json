@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "multiparty": "^4.2.2"
-  }
+  },
+  "name": "serverless-multipart-form",
+  "description": "This is a quick demo to show Serverless Function support for handling multipart form submissions.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
